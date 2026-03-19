@@ -76,7 +76,7 @@ ai-resume-screening-system
 
 Clone the repository:
 
-git clone https://github.com/YOUR_USERNAME/ai-resume-screening-system.git
+git clone https://github.com/Dharani-ThathiReddy/ai-resume-screening-system.git
 
 Move into the project directory:
 
